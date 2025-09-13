@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Sulivando Lima  
 
-💻 Desenvolvedor apaixonado por **aplicações web** com foco em **PHP, Laravel, JavaScript e MySQL**.  
-🚀 Atualmente desenvolvendo o projeto **Sons da Cidade**, um app para divulgar a cena musical de Fortaleza.  
+💻 Desenvolvedor apaixonado por **aplicações multiplataformas** com foco em **React, Node, PHP e Android**.  
+🚀 Atualmente desenvolvendo o projeto **Som na City**, um app para divulgar a agenda musical de bares.  
 📚 Sempre aprendendo mais sobre **full stack, SaaS e automação web**.  
 
 ---
